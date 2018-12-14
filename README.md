@@ -35,3 +35,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### Education
+
+- 2006-2011: Belarussian national technical university. Faculty of informational technologies and robotics. Major: software of information technologies.
+
+- 2011-2012: Masters course in Belarussian national technical university. Faculty of informational technologies and robotics. Major: System analysis, management and information processing.
+
+- 2012-2016: Post-graduate student in BNTU. Major: system control.

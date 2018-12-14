@@ -52,10 +52,8 @@ Services: PostgreSQL, MS SQL Server, SQLite, MySQL, Oracle 11, MongoDB, Elastics
 |Domain   |Brief   |Responsibilities   | Tools  |
 |---|---|---|---|
 |Fintech   |Crypto currency wallet and exchange   | System design, Functional development, GUI development, Code audit, refactoring, automated code audit, CI, QA, Team Lead, Tech Lead  | Ruby 2.5, Rails 5.0, PostgreSQL, Nginx, Docker, Unicorn, Kubernetes, RabbitMQ  |
-|Business-automation   |After-sale extension application for general market.   | System design, Functional development, GUI development, Code audit, refactoring, automated code audit, CI  | 
-Ruby 2.1, Rails 4.0, MongoDB, Faye, Nginx, Capistrano 3, Unicorn  |
-| Business-automation  | New extension app for auction application. Aimed to support after-sale process.  | System design, Functional development, GUI development, Code audit, refactoring.  | 
-Ruby 2.0, Rails 4.0, MongoDB, ElasticSearch, Sidekiq, Redis, Faye, Nginx, Capistrano, Thin. |
+|Business-automation   |After-sale extension application for general market.   | System design, Functional development, GUI development, Code audit, refactoring, automated code audit, CI  | Ruby 2.1, Rails 4.0, MongoDB, Faye, Nginx, Capistrano 3, Unicorn  |
+| Business-automation  | New extension app for auction application. Aimed to support after-sale process.  | System design, Functional development, GUI development, Code audit, refactoring.  | Ruby 2.0, Rails 4.0, MongoDB, ElasticSearch, Sidekiq, Redis, Faye, Nginx, Capistrano, Thin. |
 | Business-automation  |Online auctions application with several types of events supported   |Functional development, GUI development, Code audit, refactoring   | Ruby 1.9.2, 1.9.3, 2.1.6, 2.2.3, Rails 3.2, MySQL, ElasticSearch, Sidekiq, Redis, Memcached, Rackspace  |
 |Business-automation, data-management   | Data-storage application with focus on large datasets. Front End for management of storage structure. Large dataset processing. Sharding, Replication  | Functional development, GUI development  |  Ruby 1.9.3, Rails 3.2, MongoDB, Mongoid, RabbitMQ, amqp, Rabl, Sidekiq |
 | Finance  |  Small business accounting with heavy Front End focus | Functional development, GUI development  | Ruby 1.8.7, Rails 2.3, MySQL, Capistrano, Device, CSS3, Highcharts  |
